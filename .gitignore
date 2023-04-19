@@ -1,0 +1,3 @@
+# ignore folders
+__pycahce__/
+api_pulls/
