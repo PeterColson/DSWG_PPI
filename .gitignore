@@ -5,6 +5,9 @@ Databases/
 Inputs/
 Original/
 
+# OE database access files
+var_grabber.bat
+
 # output files
 *.csv
-var_grabber.bat
+*.xlsx
