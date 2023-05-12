@@ -1,3 +1,10 @@
 # ignore folders
 __pycahce__/
 api_pulls/
+Databases/
+Inputs/
+Original/
+
+# output files
+*.csv
+var_grabber.bat
